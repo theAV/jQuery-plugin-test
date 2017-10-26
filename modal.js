@@ -15,7 +15,7 @@
 
   var Modal = function (element, options) {
     this.options   = options
-    this.$element  = $(element)
+    this.$element  = $(element) 
     this.$backdrop =
     this.isShown   = null
 
